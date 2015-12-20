@@ -1,1 +1,2 @@
 this is luqc git exercise.
+this is a git exercise for commit 
